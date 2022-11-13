@@ -86,5 +86,9 @@ I'll go there and will get the potion. Touching the ring and bringing his hand t
 
 -> [[002 - Coming Soon\|002 - Coming Soon]]
 
+#### Actual Play Sessions
+- [[campaigns/Flintales/sessions/session-00-1\|Session 00.1: Character Generation]]
+- [[campaigns/Flintales/sessions/session-00-2\|Session 00.2: Swearing Vows]]
+
 ---
 status: #inprogress 
