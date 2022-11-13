@@ -6,7 +6,7 @@
 
 > I am new to playing TTRPGs(Tabletop Role Playing Games) and playing Solo RPGs seemed a good way to get into TTRPGs.
 
-[[the-ironlands.png|The Ironlands]] is the world where the [Ironsworn RPG](ironswornrpg.com) takes place. Ironsworn is a free TTRPG by  [Shawn Tomkin](https://twitter.com/ShawnTomkin). It is available for free on the website. 
+The Ironlands is the world where the [Ironsworn RPG](ironswornrpg.com) takes place. Ironsworn is a free TTRPG by  [Shawn Tomkin](https://twitter.com/ShawnTomkin). It is available for free on the website. 
 
 As a fan of [Obsidian](https://obsidian.md), I am using it to document my gameplays and the narrative.
 
