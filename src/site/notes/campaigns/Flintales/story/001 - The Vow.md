@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/flintales/story/001-the-vow/"}
+{"type":"episode","campaign":"The Tales of Flint","banner":"![ring.jpg](/img/user/media/banners/ring.jpg)","dg-publish":true,"tags":["APFic"],"permalink":"/campaigns/flintales/story/001-the-vow/","dgPassFrontmatter":true}
 ---
 
 
@@ -82,7 +82,7 @@ Hearing a noise behind him, he turned to see Mona approaching with a distraught 
 
 *No, she said this poison requires some potions that she does not possess. She mentioned that the volva at Greenrock had that potion.*
 
-I'll go there and will get the potion. Touching the ring and bringing his hand to his breast, Flint said, *==I swear an Iron Vow to save Ma from this affliction==*.
+*I'll go there and will get the potion.* Touching the ring and bringing his hand to his breast, Flint said, *==I swear an Iron Vow to save Ma from this affliction==*.
 
 -> [[002 - Coming Soon\|002 - Coming Soon]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/flintales/sessions/session-00-1/"}
+{"type":"session","world":"Ironsworn","campaign":"Night's Lords","location":"","characters":["Flint"],"date":"2022-11-08","tags":[],"dg-publish":true,"alias":"Session 00.1: Character Generation","permalink":"/campaigns/flintales/sessions/session-00-1/","dgPassFrontmatter":true}
 ---
 
 # Session 00.1: Character Generation
@@ -56,7 +56,7 @@ Let's find out more about Flint with more rolls.
 >>Dice Rolls: **58** & **95**
 > Result: *Athletic* & *Incompetent*
  
-This is an interesting combination. Could Flint be a bumbling brute? Since the oracles are meant to be interpreted to suit the narrative. I am thinking of building Flint as an apprentice who hasn't mastered anything yet inspite of his current efforts becuase he is still not competent enough. Flint could be a very quick runner. Maybe he was the best runner in his village. Or he could be the brawniest guy in the village. That would also be an interesting juxtaposition.
+This is an interesting combination. Could Flint be a bumbling brute? Since the oracles are meant to be interpreted to suit the narrative. I am thinking of building Flint as an apprentice who hasn't mastered anything yet in spite of his current efforts because he is still not competent enough. Flint could be a very quick runner. Maybe he was the best runner in his village. Or he could be the brawniest guy in the village. That would also be an interesting juxtaposition.
 
 > Flint is a muscular wannabe shaman.
 

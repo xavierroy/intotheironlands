@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/flintales/sessions/session-00-2/"}
+{"type":"session","world":"Ironsworn","campaign":"Night's Lords","location":"","characters":["Flint"],"date":"2022-11-10","tags":[],"dg-publish":true,"alias":"Session 00.2: Swearing Vows","permalink":"/campaigns/flintales/sessions/session-00-2/","dgPassFrontmatter":true}
 ---
 
 
